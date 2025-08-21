@@ -19,11 +19,10 @@
 
 ### 💡 Áreas de Interesse
 
-- Desenvolvimento Web (Back-end e Front-end)
+- Desenvolvimento Web (Back-end)
 - Arquitetura de Software
 - Testes Automatizados
 - APIs REST e integrações
-- Cloud & Containers
 
 ---
 
