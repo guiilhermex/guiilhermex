@@ -55,7 +55,7 @@
 ### 📫 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/guilherme-carvalho-4569a6239/)
-- Email: (adicione aqui se quiser mostrar)
+- Email: guii06564@gmail.com
 
 ---
 
